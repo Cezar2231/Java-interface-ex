@@ -1,4 +1,4 @@
-package Kursova;
+package Interface;
 
 public enum Frequency {
 	Weekly(52),
