@@ -1,4 +1,4 @@
-package Kursova;
+package Interface;
 
 public class Author {
 	private String name;
