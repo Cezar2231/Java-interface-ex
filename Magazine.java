@@ -1,4 +1,4 @@
-package Kursova;
+package Interface;
 
 import java.util.ArrayList;
 
